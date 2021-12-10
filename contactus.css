@@ -1,0 +1,28 @@
+header{
+    text-align:center;font-size:80px;
+}
+
+
+
+footer {
+  background-color: skyblue;
+  padding: 10px;
+  text-align: center;
+  color: black;
+  clear: both;
+}
+
+ul{
+    list-style-type:none;
+    word-spacing:12px;
+}
+
+
+
+li{
+    display:inline
+}
+
+
+
+p{font-size:40px}

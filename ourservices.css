@@ -1,0 +1,19 @@
+header{text-align:center;font-size:50px;}
+footer {
+  background-color: skyblue;
+  padding: 10px;
+  text-align: center;
+  color: black;
+  clear: both;
+}
+
+.example{list-style-type:none;
+    word-spacing:12px}
+    
+div{display:inline
+}
+
+
+table{text-align:center}
+
+p{font-size:30px;}
