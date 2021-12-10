@@ -2,7 +2,7 @@
 
 header {border-radius:30px;height:200px;
   padding: 20px;
-  background: url("foods.jpeg");
+  background-image: url("foods.jpeg");
   background-repeat:no-repeat;
   background-size: cover;
   
